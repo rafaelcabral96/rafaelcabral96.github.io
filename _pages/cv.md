@@ -9,32 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV with professional experience (12/2022): [Here](/assets/CV_2.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering Physics, Technical University of Lisbon, 2017
+* M.S. in Applied Mathematics, Technical University of Lisbon, 2019
+* Ph.D in Statistics, KAUST, 2023 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Selected Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Al-Kindi Statistics Research Student Award, given to top Statistics students at KAUST
+* Dean’s list award, during Ph.D. at KAUST
+* Diploma of academic merit, for great performance in the M.S. in Applied Mathematics
+* Diploma of academic merit, for great performance in the B.S. in Engineering Physics
+* Asteroid Discovery Award, Confirmed asteroid by the Minor Planet Center of the University of Harvard with name 2013 EZ7
 
 Publications
 ======
@@ -53,7 +43,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
