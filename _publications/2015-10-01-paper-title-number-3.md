@@ -6,7 +6,7 @@ excerpt: 'Inferential procedures tend to overestimate the degree of non-Gaussian
 date: 2022-01-01
 venue: 'Bayesian Analysis'
 paperurl: 'https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Controlling-the-Flexibility-of-Non-Gaussian-Processes-Through-Shrinkage-Priors/10.1214/22-BA1342.full'
-citation: 'Cabral, R., Bolin, D. and Rue, H. (2020). &quot;Controlling the flexibility of non‑Gaussian processes through shrinkage priors.&quot; <i>Bayesian Analysis</i>.'
+citation: 'Cabral, R., Bolin, D. and Rue, H. (2022). &quot;Controlling the flexibility of non‑Gaussian processes through shrinkage priors.&quot; <i>Bayesian Analysis</i>.'
 ---
 
 Inferential procedures tend to overestimate the degree of non-Gaussianity in the data and therefore we construct priors that contract the model towards Gaussianity. 
@@ -21,4 +21,4 @@ More resources:
 - Stan Connect 2022 [presentation](https://github.com/stan-dev/connect22-space-time/tree/main/resources/Speaker%203%20-%20Rafael%20Cabral)
 - [arXiv version](https://arxiv.org/abs/2203.05510)
 
-Recommended citation: Cabral, R., Bolin, D. and Rue, H. (2020). "Controlling the flexibility of non‑Gaussian processes through shrinkage priors." <i>Bayesian Analysis</i>.
+Recommended citation: Cabral, R., Bolin, D. and Rue, H. (2022). "Controlling the flexibility of non‑Gaussian processes through shrinkage priors." <i>Bayesian Analysis</i>.
