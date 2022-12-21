@@ -2,8 +2,8 @@
 title: "Controlling the flexibility of non‑Gaussian processes through shrinkage priors"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2020-01-01
+excerpt: 'Inferential procedures tend to overestimate the degree of non-Gaussianity in the data and therefore we construct priors that contract the model towards Gaussianity. In our venture to derive sensible priors, we also propose a new intuitive parameterization of the non-Gaussian models and discuss how to implement them efficiently in Stan.'
+date: 2022-01-01
 venue: 'Bayesian Analysis'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Cabral, R., Bolin, D. and Rue, H. (2020). &quot;Controlling the flexibility of non‑Gaussian processes through shrinkage priors.&quot; <i>Bayesian Analysis</i>.'
