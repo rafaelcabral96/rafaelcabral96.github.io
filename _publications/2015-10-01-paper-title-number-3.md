@@ -16,8 +16,7 @@ Inferential procedures tend to overestimate the degree of non-Gaussianity in the
 In our venture to derive sensible priors, we also propose a new intuitive parameterization of the non-Gaussian models and discuss how to implement them efficiently in Stan. The methods are derived for a generic class of non-Gaussian models that include spatial Matérn fields, autoregressive models for time series, and simultaneous autoregressive models for aerial data.
 
 More resources: 
-- Short [Vignette](https://rawcdn.githack.com/stan-dev/connect22-space-time/9861468cbfcec939c25c88c81693b5055134e7a6/resources/Speaker%203%20-%20Rafael%20Cabral/vignette/stanconnect.html) about non-- - 
-- Gaussian processes and how to implement them on Stan.
+- Short [Vignette](https://rawcdn.githack.com/stan-dev/connect22-space-time/9861468cbfcec939c25c88c81693b5055134e7a6/resources/Speaker%203%20-%20Rafael%20Cabral/vignette/stanconnect.html) about non-Gaussian processes and how to implement them on Stan
 [Bookdown](https://rafaelcabral96.github.io/nigstan/) containing the code of several applications to time series, geostatistical and areal data
 - Stan Connect 2022 [presentation](https://github.com/stan-dev/connect22-space-time/tree/main/resources/Speaker%203%20-%20Rafael%20Cabral)
 
