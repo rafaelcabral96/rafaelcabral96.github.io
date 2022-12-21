@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2020
 venue: 'Bayesian Analysis'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Cabral, R., Bolin, D. and Rue, H. (2020). &quot;Controlling the flexibility of non‑Gaussian processes through shrinkage priors.&quot; <i>Bayesian Analysis</i>. 1(3).'
+citation: 'Cabral, R., Bolin, D. and Rue, H. (2020). &quot;Controlling the flexibility of non‑Gaussian processes through shrinkage priors.&quot; <i>Bayesian Analysis</i>.'
 ---
 
 Inferential procedures tend to overestimate the degree of non-Gaussianity in the data and therefore we construct priors that contract the model towards Gaussianity. 
@@ -21,4 +21,4 @@ More resources:
 - Stan Connect 2022 [presentation](https://github.com/stan-dev/connect22-space-time/tree/main/resources/Speaker%203%20-%20Rafael%20Cabral)
 
 
-Recommended citation: Cabral, R., Bolin, D. and Rue, H. (2020). "Controlling the flexibility of non‑Gaussian processes through shrinkage priors." <i>Bayesian Analysis</i>. 1(3).
+Recommended citation: Cabral, R., Bolin, D. and Rue, H. (2020). "Controlling the flexibility of non‑Gaussian processes through shrinkage priors." <i>Bayesian Analysis</i>.
