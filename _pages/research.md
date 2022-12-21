@@ -30,11 +30,17 @@ Resources:
 Papers: See Publications tab.
 
 ### Examples
-![Observations of a quantity related to a patient’s kidney function and predictions using an LGM (green) and an LnGM (red)](/assets/time_series.png)
+| ![](/assets/time_series.png) |
+|:--:|
+| <b>Observations of a quantity related to a patient’s kidney function and predictions using an LGM (green) and an LnGM (red).</b>|
+
 
 This [paper](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12405) considered measurements related to the kidney function of several patients recorded over time. LGMs did not adapt well to sudden drops in measurements, as shown in the previous figure, which was problematic since these drops are an example of “acute kidney injury”, which should prompt an immediate medical intervention. The red curve shows a prediction based on an LnGM, which clearly is more accurate.
 
-![Sample paths of a non-Gaussian Matérn model in two dimensions, driven by normal inverse-Gaussian noise](/assets/spatial_2.png)
+| ![](/assets/spatial_2.png)|
+|:--:|
+| <b>Sample paths of a non-Gaussian Matérn model in two dimensions, driven by normal inverse-Gaussian noise.</b>|
+
 
 The previous image shows spatial Matérn sample paths driven by non-Gaussian noise with increasing levels of long-tailedness. We can see that that localized spikes start to appear. This feature can be found on several real-world data, such as pressure data (see this [paper](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Controlling-the-Flexibility-of-Non-Gaussian-Processes-Through-Shrinkage-Priors/10.1214/22-BA1342.full)).
 
