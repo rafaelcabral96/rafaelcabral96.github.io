@@ -17,7 +17,7 @@ In our venture to derive sensible priors, we also propose a new intuitive parame
 
 More resources: 
 - Short [Vignette](https://rawcdn.githack.com/stan-dev/connect22-space-time/9861468cbfcec939c25c88c81693b5055134e7a6/resources/Speaker%203%20-%20Rafael%20Cabral/vignette/stanconnect.html) about non-Gaussian processes and how to implement them on Stan
-[Bookdown](https://rafaelcabral96.github.io/nigstan/) containing the code of several applications to time series, geostatistical and areal data
+- [Bookdown](https://rafaelcabral96.github.io/nigstan/) containing the code of several applications to time series, geostatistical and areal data
 - Stan Connect 2022 [presentation](https://github.com/stan-dev/connect22-space-time/tree/main/resources/Speaker%203%20-%20Rafael%20Cabral)
 
 
