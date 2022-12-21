@@ -12,4 +12,4 @@ We propose a new approach for evaluating temporal trends and spatial homogeneity
 
 [Download paper here](doi.org/10.1002/env.2605)
 
-Recommended citation: Cabral, R, Ferreira, A, Friederichs, (2019). "Space‑time trends and dependence of precipitation extremes in north‑western Germany." <i>Environmetrics</i>. 1(2). 
+Recommended citation: Cabral, R, Ferreira, A, Friederichs, (2019). "Space‑time trends and dependence of precipitation extremes in north‑western Germany." <i>Environmetrics</i>. 
