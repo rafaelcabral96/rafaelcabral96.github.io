@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Space‑time trends and dependence of precipitation extremes in north‑western Germany"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'We propose a new approach for evaluating temporal trends and spatial homogeneity in extremes accounting also for spatial dependence. Wwo novel test statistics provide a way to assess space–time inhomogeneities. Finally, we propose a procedure to achieve stationarity in space and time and evaluate residual extremal dependence over space through a variogram analysis that includes anisotropy.'
+date: 2019
+venue: 'Environmetrics'
+paperurl: 'doi.org/10.1002/env.2605'
+citation: 'Cabral, R, Ferreira, A, Friederichs, (2019). &quot;Space‑time trends and dependence of precipitation extremes in north‑western Germany.&quot; <i>Environmetrics</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+We propose a new approach for evaluating temporal trends and spatial homogeneity in extremes accounting also for spatial dependence. Wwo novel test statistics provide a way to assess space–time inhomogeneities. Finally, we propose a procedure to achieve stationarity in space and time and evaluate residual extremal dependence over space through a variogram analysis that includes anisotropy.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](doi.org/10.1002/env.2605)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Cabral, R, Ferreira, A, Friederichs, (2019). "Space‑time trends and dependence of precipitation extremes in north‑western Germany." <i>Environmetrics</i>. 1(2). 
