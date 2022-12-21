@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020
-venue: 'Bayesian Analysis1'
+venue: 'Bayesian Analysis'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Cabral, R., Bolin, D. and Rue, H. (2020). &quot;Controlling the flexibility of non‑Gaussian processes through shrinkage priors.&quot; <i>Bayesian Analysis</i>. 1(3).'
 ---
