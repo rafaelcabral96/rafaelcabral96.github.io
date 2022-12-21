@@ -5,7 +5,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Inferential procedures tend to overestimate the degree of non-Gaussianity in the data and therefore we construct priors that contract the model towards Gaussianity. In our venture to derive sensible priors, we also propose a new intuitive parameterization of the non-Gaussian models and discuss how to implement them efficiently in Stan.'
 date: 2022-01-01
 venue: 'Bayesian Analysis'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Controlling-the-Flexibility-of-Non-Gaussian-Processes-Through-Shrinkage-Priors/10.1214/22-BA1342.full'
 citation: 'Cabral, R., Bolin, D. and Rue, H. (2020). &quot;Controlling the flexibility of non‑Gaussian processes through shrinkage priors.&quot; <i>Bayesian Analysis</i>.'
 ---
 
