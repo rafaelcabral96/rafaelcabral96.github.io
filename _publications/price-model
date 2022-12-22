@@ -1,7 +1,7 @@
 ---
 title: "A price model with finitely many agents"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/price-model
 excerpt: 'We propose a price-formation model, with a population consisting of a finite number of agents storing and trading a commodity.  We formulate our problem as an N-player dynamic game with a market-clearing condition. Subsequently, we show how to recast our game as an optimization problem for the overall trading cost. We show the existence of a solution using the direct method in the calculus of variations.'
 date: 2019-01-01
 venue: 'Bulletin of the Portuguese Mathematical Society'
