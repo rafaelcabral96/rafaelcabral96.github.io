@@ -30,7 +30,7 @@ Resources:
 Papers: See Publications tab.
 
 ### Examples
-| ![](/assets/time_series.png) |
+| ![](/assets/time_series.png)|
 |:--:|
 | <b>Observations of a quantity related to a patient’s kidney function and predictions using an LGM (green) and an LnGM (red).</b>|
 
