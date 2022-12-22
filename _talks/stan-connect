@@ -1,0 +1,11 @@
+---
+title: "Robust non‑Gaussianmodels and how to fit themin Stan."
+collection: talks
+type: "Talk"
+permalink: /talks/stan-connect
+venue: "StanConnect 2022: Stan Through Space and Time"
+date: 2022-01-01
+location: "Online"
+---
+
+Github link of the event [here](github.com/stan-dev/connect22-space-time).
