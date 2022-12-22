@@ -16,15 +16,17 @@ My research interest are mainly in Applied and Computational Statistics:
 
 ## Ph.D. research
 
-It is easy to find datasets that contain inherently non-Gaussian features, such as sudden jumps or spikes, that adversely affect the inferences and predictions made from a latent Gaussian model (LGM). However, methodological challenges prevent more robust latent non-Gaussian models (LnGMs) from being part of mainstream statistical practice. In this line, my research dealt with:
+When modeling real-world data, it is easy to come across datasets that contain inherently non-Gaussian features, such as sudden jumps or spikes. Often, these features adversely affect the inferences and predictions from a latent Gaussian model (LGM). However, methodological challenges prevent using more robust latent non-Gaussian models (LnGMs). In this line, my research dealt with:
 
 1. Constructing an intuitive framework that allows extending LGMs to LnGMs.
 2. Deriving fast and scalable algorithms to fit the LnGMs, based on variational Bayes and Laplace approximations.
-3. Developing easy-to-use software, for both Stan and R-INLA.
+3. Developing easy-to-use tools for Stan and R-INLA to fit these models. 
+ 
+These tools allow users to fit LnGMs by adding a single line of code to previous implementations of LGMs in Stan and R-INLA.
 
 Resources:
 - Short vignette on non-Gaussian models, how are they defined and why use them: [Link](https://rawcdn.githack.com/stan-dev/connect22-space-time/9861468cbfcec939c25c88c81693b5055134e7a6/resources/Speaker%203%20-%20Rafael%20Cabral/vignette/stanconnect.html).
-- Bookdown with theory and several spatial and temporal models implemented in Stan: [Link](https://rafaelcabral96.github.io/nigstan/).
+- Bookdown with relevant theory and several spatial and temporal models implemented in Stan: [Link](https://rafaelcabral96.github.io/nigstan/).
 - Fast and scalable implementation in R-INLA: [Link](https://github.com/rafaelcabral96/ngvb).
 
 Papers: See Publications tab.
