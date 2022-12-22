@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV with professional experience (12/2022): [Here](/assets/CV_2.pdf)
+Complete CV with professional experience (12/2022): [Here](/assets/CV_git.pdf)
 
 Education
 ======
-* B.S. in Engineering Physics, Technical University of Lisbon, 2017
-* M.S. in Applied Mathematics, Technical University of Lisbon, 2019
 * Ph.D in Statistics, KAUST, 2023 (expected)
+* M.S. in Applied Mathematics, Technical University of Lisbon, 2019
+* B.S. in Engineering Physics, Technical University of Lisbon, 2017
 
   
 Selected Awards
