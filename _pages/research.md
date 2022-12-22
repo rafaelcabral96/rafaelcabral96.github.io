@@ -16,7 +16,7 @@ My research interest are mainly in Applied and Computational Statistics:
 
 ## Ph.D. research
 
-When modeling real-world data, it is easy to come across datasets that contain inherently non-Gaussian features, such as sudden jumps or spikes. Often, these features adversely affect the inferences and predictions from a latent Gaussian model (LGM). However, methodological challenges prevent using more robust latent non-Gaussian models (LnGMs). In this line, my research dealt with:
+When modeling real-world data, it is easy to come across datasets that contain inherently non-Gaussian features, such as sudden jumps or spikes. Often, these features adversely affect the inferences and predictions from a latent Gaussian model (LGM). However, methodological and computational challenges hinder the use of more robust latent non-Gaussian models (LnGMs). In this line, my research dealt with:
 
 1. Constructing an intuitive framework that allows extending LGMs to LnGMs.
 2. Deriving fast and scalable algorithms to fit the LnGMs, based on variational Bayes and Laplace approximations.
