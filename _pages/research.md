@@ -32,9 +32,10 @@ Resources:
 Papers: See Publications tab.
 
 ### Examples
+
 | ![](/assets/time_series.png)|
 |:--:|
-| <b>Observations of a quantity related to a patient’s kidney function and predictions using an LGM (green) and an LnGM (red).</b>|
+| <b>Observations of a quantity related to a patient's kidney function and predictions using an LGM (green) and an LnGM (red).</b>|
 
 
 This [paper](https://rss.onlinelibrary.wiley.com/doi/10.1111/rssc.12405) considered measurements related to the kidney function of several patients recorded over time. LGMs did not adapt well to sudden drops in measurements, as shown in the previous figure, which was problematic since these drops are an example of “acute kidney injury”, which should prompt an immediate medical intervention. The red curve shows a prediction based on an LnGM, which clearly is more accurate.
