@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Complete CV with professional experience (12/2022): [Here](/assets/CV_git.pdf)
+Complete CV with professional experience (07/2023): [Here](/assets/CV_git.pdf)
 
 Education
 ======
-* Ph.D. in Statistics, KAUST, 2023 (expected)
+* Ph.D. in Statistics, KAUST, 2023
 * M.S. in Applied Mathematics, Technical University of Lisbon, 2019
 * B.S. in Engineering Physics, Technical University of Lisbon, 2017
 
