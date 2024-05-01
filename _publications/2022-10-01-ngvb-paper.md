@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2022-10-01-ngvb-paper
 excerpt: 'In this paper, we derive variational Bayes algorithms for fast and scalable inference of latent non-Gaussian models. To facilitate Bayesian inference, we introduce the ngvb package, where LGMs implemented in R-INLA can be easily extended to LnGMs by adding a single line of code.'
 date: 2022-10-01
-venue: 'arXiv'
+venue: 'Journal of the American Statistical Association'
 paperurl: 
-citation: 'Cabral, R., Bolin, D. and Rue, H. (2022). &quot;Fitting latent non-Gaussian models using variational Bayes and Laplace approximations. &quot; <i>arXiv preprint</i>.'
+citation: 'Cabral, R., Bolin, D. and Rue, H. (2024). &quot;Fitting latent non-Gaussian models using variational Bayes and Laplace approximations. &quot; <i>Journal of the American Statistical Association 1-13</i>.'
 ---
 
 In this paper, we derive variational Bayes algorithms for fast and scalable inference of latent non-Gaussian models. To facilitate Bayesian inference, we introduce the ngvb package, where LGMs implemented in R-INLA can be easily extended to LnGMs by adding a single line of code.
@@ -17,4 +17,4 @@ More resources:
 - [Download ngvb package here](https://rafaelcabral96.github.io/ngvb)
 - [Get started page for the ngvb package](https://rafaelcabral96.github.io/ngvb/) 
 
-Recommended citation: Cabral, R., Bolin, D. and Rue, H. (2022). "Fitting latent non-Gaussian models using variational Bayes and Laplace approximations." <i>arXiv preprint</i>.
+Recommended citation: Cabral, R., Bolin, D. and Rue, H. (2024). "Fitting latent non-Gaussian models using variational Bayes and Laplace approximations." <i>Journal of the American Statistical Association 1-13</i>.
