@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Complete CV with professional experience (07/2023): [Here](/assets/CV_git.pdf)
+Complete CV with professional experience (05/2024): [Here](/assets/CV_git.pdf)
 
 Education
 ======
